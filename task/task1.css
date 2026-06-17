@@ -31,18 +31,15 @@ img{
 }
 video{
     width: 50%;
-    background-color: blue;
+    background-color: rgb(155, 33, 196);
     padding: 10px;
 }
 table,td,th{
-    border:1px solid rgb(233, 113, 44);
+    border:1px solid rgb(142, 17, 67);
     border-collapse: collapse;
 }
-th{
-    background-color: rgb(146, 27, 43);
-}
 button{
-    background-color: rgb(39, 28, 190);
+    background-color: rgb(132, 22, 192);
     border-radius: 5px;
     border: none;
     padding: 12px 20px;
